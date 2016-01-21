@@ -22,6 +22,9 @@ This is a incredibly simple script, but does require a few small configurations.
 ### Run kill_dupes
 * The script will automatically detect and remove duplicates on any songs in your library.
 
+
+http://android.stackexchange.com/questions/62666/is-there-any-way-to-find-remove-duplicate-tracks-from-google-play-music
+
 From a PC running Windows 10 x64 (64-bit):
 
 Install the latest Python 2.7.x version. (I used Python 2.7.10; Do not use any Python 3.x.y version -- I couldn't get it to work with this script.)
